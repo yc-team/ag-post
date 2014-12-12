@@ -9,5 +9,6 @@ all ag
 4. [Tracking Pageviews with Google Analytics and Angular JS](http://blog.nraboy.com/2014/11/tracking-pageviews-google-analytics-angular-js/)
 5. [How can I use the $index inside a ng-repeat to enable a class and show a DIV?](http://stackoverflow.com/questions/17925355/how-can-i-use-the-index-inside-a-ng-repeat-to-enable-a-class-and-show-a-div)
 6. [ngRepeat](https://docs.angularjs.org/api/ng/directive/ngRepeat)
+7. [AngularJS: do not pass $index in ng-repeat if you use orderBy](http://sky2high.net/en/2013/04/angularjs-do-not-pass-index-in-ng-repeat-if-you-use-orderby/)
 
 
