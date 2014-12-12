@@ -7,5 +7,6 @@ all ag
 2. [AngularJS快速开始](http://www.angularjs.cn/A002)
 3. [bug(datepicker): doesn't fire ng-change events](https://github.com/angular-ui/bootstrap/issues/612)
 4. [Tracking Pageviews with Google Analytics and Angular JS](http://blog.nraboy.com/2014/11/tracking-pageviews-google-analytics-angular-js/)
+5. [How can I use the $index inside a ng-repeat to enable a class and show a DIV?](http://stackoverflow.com/questions/17925355/how-can-i-use-the-index-inside-a-ng-repeat-to-enable-a-class-and-show-a-div)
 
 
