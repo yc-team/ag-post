@@ -12,5 +12,6 @@ all ag
 7. [AngularJS: do not pass $index in ng-repeat if you use orderBy](http://sky2high.net/en/2013/04/angularjs-do-not-pass-index-in-ng-repeat-if-you-use-orderby/)
 8. [ng-bind-html 会忽略 style 属性?](http://angularjs.cn/A0pS)
 9. [angular中的ng-bind-html指令和$sce服务](http://segmentfault.com/blog/wangxiansheng/1190000000639561)
+10. [With ng-bind-html-unsafe removed, how do I inject HTML?](http://stackoverflow.com/questions/19415394/with-ng-bind-html-unsafe-removed-how-do-i-inject-html)
 
 
