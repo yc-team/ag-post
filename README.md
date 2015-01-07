@@ -14,5 +14,12 @@ all ag
 9. [angular中的ng-bind-html指令和$sce服务](http://segmentfault.com/blog/wangxiansheng/1190000000639561)
 10. [With ng-bind-html-unsafe removed, how do I inject HTML?](http://stackoverflow.com/questions/19415394/with-ng-bind-html-unsafe-removed-how-do-i-inject-html)
 11. [Angular.js: How does $eval work and why is it different from vanilla eval?](http://stackoverflow.com/questions/15671471/angular-js-how-does-eval-work-and-why-is-it-different-from-vanilla-eval)
-
+12. [How do you use $sce.trustAsHtml(string) to replicate ng-bind-html-unsafe in Angular 1.2+](http://stackoverflow.com/questions/18340872/how-do-you-use-sce-trustashtmlstring-to-replicate-ng-bind-html-unsafe-in-angu/19204391#19204391)
+13. [走进AngularJs(七) 过滤器（filter）](http://www.cnblogs.com/lvdabao/p/3475426.html)
+14. [filter doc](https://docs.angularjs.org/api/ng/filter/filter)
+15. [说说AngularJS中的filter](http://www.html-js.com/article/AngularJS-tips-about-AngularJS-filter)
+16. [angularjs filter 详解](http://blog.51yip.com/jsjquery/1592.html)
+17. [Angular学习（6）- 数组双向梆定+filter+directive](http://www.cnblogs.com/HD/p/3630730.html)
+18. [说说Angular中的$timeOut定时器](http://www.html-js.com/article/1829)
+19. [AngularJS入门教程03：迭代器过滤](http://www.ituring.com.cn/article/15763)
 
