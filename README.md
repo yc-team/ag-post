@@ -23,3 +23,4 @@ all ag
 18. [说说Angular中的$timeOut定时器](http://www.html-js.com/article/1829)
 19. [AngularJS入门教程03：迭代器过滤](http://www.ituring.com.cn/article/15763)
 20. [$http request doesn't send cookies cross-domain in angular CORS](http://stackoverflow.com/questions/16882245/http-request-doesnt-send-cookies-cross-domain-in-angular-cors)
+21. [$http doesn't send cookie in Requests](http://stackoverflow.com/questions/17064791/http-doesnt-send-cookie-in-requests)
