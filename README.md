@@ -26,3 +26,4 @@ all ag
 21. [$http doesn't send cookie in Requests](http://stackoverflow.com/questions/17064791/http-doesnt-send-cookie-in-requests)
 22. [angular - filter -data](https://docs.angularjs.org/api/ng/filter/date)
 23. [How can I post data as form data instead of a request payload?](http://stackoverflow.com/questions/11442632/how-can-i-post-data-as-form-data-instead-of-a-request-payload)
+24. [how to change post['Content-Type'] in angularjs](http://stackoverflow.com/questions/17610238/how-to-change-postcontent-type-in-angularjs)
